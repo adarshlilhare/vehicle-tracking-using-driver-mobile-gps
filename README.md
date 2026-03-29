@@ -1,5 +1,5 @@
 Vehicle Tracking Using Driver Mobile GPS
-**Real-time Vehicle Tracking App** using the driver's Android phone GPS.
+Real-time Vehicle Tracking App using the driver's Android phone GPS.
 No extra hardware needed — just install the app on the driver's phone and start tracking the vehicle live.
 ---
 Features
